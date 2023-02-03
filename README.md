@@ -1,2 +1,2 @@
 # robot-framework-composite-action
-for testing GitHub actions
+A lightly edited version of joonvena/robotframework-docker-action for personal learning of GitHub actions. Credit goes to joonvena.
